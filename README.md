@@ -94,4 +94,5 @@ All migration actions can be executed directly from SMP.
 9. A look into the related generated Class Defnitions confirms the result and successful completion.
   ![](https://raw.githubusercontent.com/r-cemper/SQLgateway-migration-mysql-IRIS/master/docs/gty12.jpg)
 
-  [Article on DC](https://community.intersystems.com/post/sqlgateway-migration-mysql-iris)
+  [Article on DC](https://community.intersystems.com/post/sqlgateway-migration-mysql-iris)   
+  [Data source description by Yuri Marx](https://community.intersystems.com/post/data-migration-tool-part-i-postgres-iris)
